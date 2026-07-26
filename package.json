@@ -1,0 +1,20 @@
+{
+  "name": "renext-app",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node renext/cli.js dev",
+    "build": "node renext/cli.js build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/parser": "^7.24.0",
+    "@babel/traverse": "^7.24.0"
+  }
+}
