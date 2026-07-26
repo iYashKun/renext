@@ -1,1 +1,3 @@
-# renext.ts
+# renext
+
+```npm install renext```
